@@ -67,3 +67,8 @@ Cada instância do componente mantém seu próprio estado (`Total`), garantindo 
 * **Barra de Progresso:** Representação visual do progresso do usuário em relação à meta definida, atualizada dinamicamente conforme as interações.
 * **Mensagem de Conquista:** Exibição de uma mensagem motivacional ("🎉 Você é um Herói do Planeta!") ao atingir a meta de pontos, incentivando o engajamento do usuário.
 * **Desativação do Botão:** O botão de ação é automaticamente desabilitado ao atingir a meta, evitando interações desnecessárias e reforçando o estado do sistema.
+<img width="1659" height="1528" alt="Captura de tela 2026-04-22 203858" src="https://github.com/user-attachments/assets/64b8a19e-6d93-4c5e-9db8-1df3fc730c52" />
+<img width="1585" height="1493" alt="Captura de tela 2026-04-22 204013" src="https://github.com/user-attachments/assets/030dbd68-5005-4d07-9c18-f64bd4101c1e" />
+<img width="1640" height="1453" alt="Captura de tela 2026-04-22 204003" src="https://github.com/user-attachments/assets/e981cd1a-45fb-4a80-bfd9-2b2e77d6b30e" />
+<img width="1580" height="1513" alt="Captura de tela 2026-04-22 203955" src="https://github.com/user-attachments/assets/9737cfb5-ef51-4d28-9a10-cab5f1eed28b" />
+<img width="1619" height="1493" alt="Captura de tela 2026-04-22 203943" src="https://github.com/user-attachments/assets/cc01c129-3c15-47bb-95a5-c8ebe3088475" />
